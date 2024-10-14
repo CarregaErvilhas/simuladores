@@ -1,7 +1,8 @@
 #  Lista de Simuladores para carregamento de Veiculos Eletricos em Portugal 
 
-| Carro Eletrico - Comparador Mobie CEME                            | https://ceme.ocarroeletrico.com/                                                                                       |
+| Simuladore                                                        | https://simuladores.ocarroeletrico.com/                                                                                       |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Carro Eletrico - Comparador Mobie CEME                            | https://ceme.ocarroeletrico.com/                                                                                       |
 | CEME Comparação Preços                                            | https://docs.google.com/spreadsheets/d/1c1itP5vir1xZ9BkfJGehJyoEro6UhncgRw-fLw5m6MQ/edit?gid=1552482801#gid=1552482801 |
 | App Carregar (iOS only)                                           | https://apps.apple.com/pt/app/carregar/id6448868818                                                                    |
 | Compara Ervilhas (web)                                            | https://comparaervilhas.pt/                                                                                            |
